@@ -1,6 +1,6 @@
 {
   "name": "@josefilipeii/plutus",
-  "version": "1.0.0",
+  "version": "0.0.2-alpha",
   "description": "Moloni orquestration with firebase ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
