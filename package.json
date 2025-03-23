@@ -1,0 +1,22 @@
+{
+  "name": "moloni-lib",
+  "version": "1.0.0",
+  "description": "Moloni SDK for nodejs ",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefi/my-ts-lib.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "josefilipeii",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2"
+  }
+}
