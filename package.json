@@ -1,13 +1,13 @@
 {
-  "name": "moloni-lib",
+  "name": "@josefilipeii/plutus",
   "version": "1.0.0",
-  "description": "Moloni SDK for nodejs ",
+  "description": "Moloni orquestration with firebase ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josefi/my-ts-lib.git"
+    "url": "https://github.com/josefilipeii/plutus.git"
   },
   "scripts": {
     "build": "tsc",
